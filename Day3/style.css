@@ -1,0 +1,64 @@
+*{
+    background-color: rgb(147, 199, 192);
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+    position:absolute;
+    left: 40%;
+    top: 25%;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 0px auto;
+    background:rgb(255, 255, 255);
+    border: 3px solid rgb(30, 235, 191);
+    
+}
+.image-container{
+    height:130px;
+    width: 100px;
+    padding: 10px;
+    margin: 50px;
+    margin-left: 30%;
+    margin-top: 0px; 
+    border-radius: 50%;
+    border: 3px solid yellowgreen;
+    
+}
+#avatar{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+.details{
+    background: transparent;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 25%;
+
+}
+.details > label{
+    background: transparent;
+    line-height: 30px;
+
+}
+.details > input {
+    line-height:20px;
+    border-style: none;
+    background: transparent;
+
+}
+
+.details > button{
+margin:0px auto ;
+width: 100%;
+height: 40px;
+background: #16A3B7;
+border: 1px solid #16A3B7;
+box-sizing: border-box;
+border-radius: 5px;
+    
+}

@@ -1,0 +1,24 @@
+.btn{
+    margin: 0 auto;
+    border: 3px solid #16b7aa;
+    width: 90%;
+    height:9%;
+    margin-top: 5%;
+    border-radius: 8px;
+
+}
+
+.btn-dwn{
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 15px;
+    font-weight: 400px;
+    margin: 0px auto;
+    padding: 10px;
+    width: 100%;
+    height: 45px;
+    background: #16A3B7;
+    
+}
